@@ -27,3 +27,7 @@ p {
 	text_indent:48px;
 	color: #0892d0;
 }
+.menu-content {
+	text-align: left;
+	list-style: none;
+}
