@@ -1,2 +1,2 @@
 # tangra
-My first web project for educational service.
+My very first web project for educational service. 
